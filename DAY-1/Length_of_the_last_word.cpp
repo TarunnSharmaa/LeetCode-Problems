@@ -29,21 +29,6 @@ public:
     }
 };
 
-
-
-//python code solution
-
-class Solution:
-    def lengthOfLastWord(self, s: str) -> int:
-        reverse_Str=s[::-1]
-        reverse_Str=reverse_Str.strip()
-        last_word=""
-        for i in range(len(reverse_Str)):
-            if reverse_Str[i]==" ":
-                return len(last_word)
-            else:
-                last_word+=reverse_Str[i]
-        return len(last_word)
                 
                 
              
