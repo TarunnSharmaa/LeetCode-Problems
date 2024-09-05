@@ -1,4 +1,4 @@
-# 100_Days_Of_LEET_Code
+# leetcode_Problems
 
-# Learning by solving some of the interesting problems from Leetcode. The difficulty level of problems will increase each day.
+# Learning by solving some of the interesting problems from Leetcode. The difficulty level will increase with each problem.
 
